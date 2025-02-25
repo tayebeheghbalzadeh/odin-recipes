@@ -15,7 +15,7 @@ This project is a basic recipe webpage built using HTML. It serves as an introdu
 
 By completing this project, I have demonstrated the following skills:
 
--**HTML Basics**: Understanding of HTML syntax, tags, and elements.
+- **HTML Basics**: Understanding of HTML syntax, tags, and elements.
 - **Content Structuring**: Ability to organize content using headings, paragraphs, lists, and images.
 - **Semantic HTML**: Proper use of semantic tags to structure the webpage meaningfully.
 - **Git and GitHub**: Basic version control skills, including creating a repository, committing changes, and pushing code to GitHub.
